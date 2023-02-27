@@ -1,3 +1,7 @@
 <?php
 
-echo 'Hello Világ!';
+function valtoztatas(){
+    return 'Hello Világ';
+}
+
+echo valtoztatas();
